@@ -1,4 +1,4 @@
-# Sentiment-Analysis-of-Yelp-reviews
+# Sentiment Analysis of Yelp reviews
 
 ![](pictures/106-1066301_yakibuta-ramen-ramen-cartoon-transparent.png)
 
