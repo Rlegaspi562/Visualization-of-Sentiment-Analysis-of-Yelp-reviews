@@ -13,7 +13,7 @@ This data is 315 observations with one variable: Reviews.
 
 
 
-##              Most Common Words
+##              Top 50 Common Words
 
 ![](pictures/Silverlake%20Wordcloud.PNG)
 
