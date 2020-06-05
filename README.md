@@ -17,4 +17,4 @@ This data is 315 observations with one variable: Reviews.
 
 ![](pictures/Silverlake%20Wordcloud.PNG)
 
-### *If the code does not render on github, please copy the link and paste on https://nbviewer.jupyter.org/ . Also, please free to message me!
+### *If the code does not render on github, please copy the link and paste on https://nbviewer.jupyter.org/ . Feel free to message me too!
